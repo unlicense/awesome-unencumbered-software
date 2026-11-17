@@ -1,0 +1,10 @@
+---
+name: radii-office
+homepage: https://github.com/patientduck394/Radii-Office
+shortdesc:
+  en: A public-domain office suite with its own formatting syntax called Keydown, a formatting language with LOTS of formatting features (seriously, check it out)!
+download-page: https://radii-office.com
+repository:
+  browse: https://github.com/patientduck394/Radii-Office
+  location: https://github.com/patientduck394/Radii-Office.git
+license: https://github.com/patientduck394/Radii-Office/blob/master/UNLICENSE
